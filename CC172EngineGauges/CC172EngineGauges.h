@@ -16,6 +16,6 @@ public:
 
 private:
     bool    _initialised;
-    uint8_t _pin1, _pin2, _pin3;
+  //  uint8_t _pin1, _pin2, _pin3;
 
 };

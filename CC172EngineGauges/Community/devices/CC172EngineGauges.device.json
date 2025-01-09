@@ -8,11 +8,7 @@
       "Version" : "1.0.0"
     },
     "Config": {
-      "Pins": [
-        "Pin 1",
-        "Pin 2",
-        "Pin 3"
-      ],
+      "Pins": [],
       "isI2C": false
     },
     "MessageTypes": [
@@ -57,7 +53,7 @@
         "description": "$ will be displayed as Vacuum Pressure in inches of Mercury (IN Hg)"
       },
       {
-        "id": 2,
+        "id": 8,
         "label": "AMPs",
         "description": "$ will be displayed as Ammeter reading in Amps"
       }
